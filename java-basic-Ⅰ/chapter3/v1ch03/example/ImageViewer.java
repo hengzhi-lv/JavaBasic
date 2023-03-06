@@ -1,4 +1,4 @@
-package v1ch04.example;
+package v1ch03.example;
 
 import java.awt.*;
 import java.io.*;

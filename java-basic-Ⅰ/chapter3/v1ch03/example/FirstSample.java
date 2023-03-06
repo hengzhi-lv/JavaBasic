@@ -1,8 +1,4 @@
-package v1ch04.example;
-
-import java.awt.*;
-import java.io.*;
-import javax.swing.*;
+package v1ch03.example;
 
 
 public class FirstSample {
